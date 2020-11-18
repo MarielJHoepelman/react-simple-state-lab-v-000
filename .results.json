@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2020-11-18T01:04:10.251Z",
-    "end": "2020-11-18T01:04:10.279Z",
-    "duration": 28
+    "start": "2020-11-18T01:20:07.407Z",
+    "end": "2020-11-18T01:20:07.432Z",
+    "duration": 25
   },
   "tests": [
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,14 +69,14 @@
     {
       "title": "has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
       "fullTitle": "<Cell /> has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
       "fullTitle": "<Cell /> sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -87,7 +87,7 @@
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,14 +143,14 @@
     {
       "title": "has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
       "fullTitle": "<Cell /> has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
       "fullTitle": "<Cell /> sets the <div>'s inline style attribute to 'style={{backgroundColor: this.state.color}}'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
